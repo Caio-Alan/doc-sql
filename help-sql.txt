@@ -1,0 +1,6 @@
+•CREATE TABLE <tabela> = um comando utilizado para a criação de uma tabela.
+
+•DROP TABLE <tabela> = um comando utilizado para apagar/deletar uma tabela criada.
+
+•INSERT INTO <tabela>+<coluna> VALUES <valores> = um comando utilizado para inserir
+valores em uma ou mais colunas da tabela.
