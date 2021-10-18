@@ -1,6 +1,10 @@
-•CREATE TABLE <tabela> = um comando utilizado para a criação de uma tabela.
+•CREATE TABLE <tabela>; = um comando utilizado para a criação de uma tabela.
 
-•DROP TABLE <tabela> = um comando utilizado para apagar/deletar uma tabela criada.
+•DROP TABLE <tabela>; = um comando utilizado para apagar/deletar uma tabela criada.
 
-•INSERT INTO <tabela>+<coluna> VALUES <valores> = um comando utilizado para inserir
+•INSERT INTO <tabela>+<coluna> VALUES <valores>; = um comando utilizado para inserir
 valores em uma ou mais colunas da tabela.
+
+•SELECT VERSION <>; = usado para saber a versão do banco de dados.
+
+•SELECT <* ou coluna(s)> FROM <tabela>; = um comando usado amostrar qualquer dado na tabela.
